@@ -18,3 +18,6 @@ $python LogAnalysis.py
 i) "popular_articles.txt",
 ii) "popular_authors.txt" and
 iii) error_dates.txt
+
+Notes:
+Works with exiting news.sql without creating additional views. Code runs CTE queries to extract the data
